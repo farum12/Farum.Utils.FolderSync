@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Farum.Utils.FolderSync": {
+      "commandName": "Project",
+      "commandLineArgs": "F:\\Poligon\\Parent\r\nF:\\Poligon\\Replica\r\n10s\r\nF:\\Poligon"
+    }
+  }
+}
