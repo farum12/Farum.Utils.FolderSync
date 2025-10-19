@@ -16,7 +16,6 @@ class Program
         FolderSynchronization.SetInterval(args[2]);
         FileLog.SetFolder(args[3]);
 
-
         FolderSynchronization.ListAllFilesAndDirectories();
         
         await FolderSynchronization.Loop();
